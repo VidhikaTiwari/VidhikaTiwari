@@ -75,8 +75,8 @@
 
 ##  Experience Snapshot
 
-- Research Assistant — IDDLab  
-- Research Assistant — RDCL Lab  
+- Research Assistant — IDDLab(Individual Difference Lab)  
+- Research Assistant — RDCL Lab (Reasoning, Decision Making and Computational Modelling lab) 
 - IT Consultant — UMass Amherst IT  
 - Director — Hack(H)er413
 - AI software developer Intern - Zillion Technologies

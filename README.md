@@ -28,9 +28,8 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
@@ -40,8 +39,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-
-### Data Science / Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
@@ -50,8 +47,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge)
 ![JASP](https://img.shields.io/badge/JASP-gray?style=for-the-badge)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google)
-
-### Frameworks / Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
@@ -59,14 +54,10 @@
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-### Cloud / Deployment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-
-### Databases / Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
@@ -84,20 +75,3 @@
 
 ---
 
-##  Currently Learning
-
-- Advanced Machine Learning  
-- Full Stack AI Apps  
-- Cloud Deployment  
-- Rust + Go for Data Systems  
-
----
-
-##  GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VidhikaTiwari&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhikaTiwari&layout=compact&theme=tokyonight"/>
-</p>
-
----
